@@ -1,0 +1,94 @@
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\obj\Debug\TP-WINFORM(PROGRAM3).csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\obj\Debug\TP_WINFORM_PROGRAM3_.Form1.resources
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\obj\Debug\TP_WINFORM_PROGRAM3_.Properties.Resources.resources
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\obj\Debug\TP-WINFORM(PROGRAM3).csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\bin\Debug\TP-WINFORM(PROGRAM3).exe.config
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\bin\Debug\TP-WINFORM(PROGRAM3).exe
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\bin\Debug\TP-WINFORM(PROGRAM3).pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\obj\Debug\TP-WINFORM(PROGRAM3).exe
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\obj\Debug\TP-WINFORM(PROGRAM3).pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\bin\Debug\TP-WINFORM(PROGRAM3).exe.config
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\bin\Debug\TP-WINFORM(PROGRAM3).exe
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\bin\Debug\TP-WINFORM(PROGRAM3).pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\obj\Debug\TP-WINFORM(PROGRAM3).csproj.AssemblyReference.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\obj\Debug\TP_WINFORM_PROGRAM3_.Form1.resources
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\obj\Debug\TP_WINFORM_PROGRAM3_.Properties.Resources.resources
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\obj\Debug\TP-WINFORM(PROGRAM3).csproj.GenerateResource.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CoreCompileInputs.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\obj\Debug\TP-WINFORM(PROGRAM3).exe
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\obj\Debug\TP-WINFORM(PROGRAM3).pdb
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe.config
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).pdb
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.AssemblyReference.cache
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.MenuPrincipal.resources
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Properties.Resources.resources
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.GenerateResource.cache
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CoreCompileInputs.cache
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).exe
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe.config
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.MenuPrincipal.resources
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Properties.Resources.resources
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).exe
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.AssemblyReference.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.MenuPrincipal.resources
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Properties.Resources.resources
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.GenerateResource.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CoreCompileInputs.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).exe
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe.config
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.dll
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.dll
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CopyComplete
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.dll
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.dll
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFO.E52F22AB.Up2Date
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.dll
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.dll
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.pdb
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.pdb
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFO.E52F22AB.Up2Date
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.frmAltaArticulo.resources
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.frmAltaArticulo.resources
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.frmAltaArticulo.resources
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Detalle.resources
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Detalle.resources
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Detalle.resources
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.ModificarArticulo.resources
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe.config
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).exe
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\TP-WINFORM(PROGRAM3).pdb
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.dll
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.dll
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Clases.pdb
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\bin\Debug\Funcionalidades.pdb
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.AssemblyReference.cache
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.frmAltaArticulo.resources
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Detalle.resources
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.MenuPrincipal.resources
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.ModificarArticulo.resources
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.Properties.Resources.resources
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.GenerateResource.cache
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CoreCompileInputs.cache
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).csproj.CopyComplete
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).exe
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP-WINFORM(PROGRAM3).pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.ModificarArticulo.resources
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.ModificarArticulo.resources
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.AltaMarca_Categoria.resources
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\obj\Debug\TP_WINFORM_PROGRAM3_.AltaMarca_Categoria.resources

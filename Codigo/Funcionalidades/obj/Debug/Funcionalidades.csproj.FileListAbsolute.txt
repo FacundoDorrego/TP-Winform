@@ -1,0 +1,36 @@
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.dll
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.dll
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.pdb
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.CopyComplete
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.dll
+C:\Users\Usuario\Desktop\C#\Facultad\winform program3\TP-WINFORM(PROGRAM3)\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.dll
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.dll
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.pdb
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.AssemblyReference.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funciona.62B5C317.Up2Date
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.dll
+D:\TRANSFERENCIA\CODIGO\WINFORM\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.pdb
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.dll
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.pdb
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.dll
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.pdb
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.AssemblyReference.cache
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funciona.62B5C317.Up2Date
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.dll
+E:\UTN\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.pdb
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.dll
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Funcionalidades.pdb
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.dll
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\bin\Debug\Clases.pdb
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.AssemblyReference.cache
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.csproj.CopyComplete
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.dll
+C:\Users\HerreraA\Documents\GitHub\TP-WINFORM-Programacion-III--UTN\Codigo\Funcionalidades\obj\Debug\Funcionalidades.pdb
